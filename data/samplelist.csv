@@ -1,6 +1,6 @@
 # Each sample must have a unique name and a single fastq.gz file.
 # One of `upstream_seq` or `downstream_seq` must be specified; the
 # second is optional.
-sample,fastq_file,upstream_seq,downstream_seq
-BC20_Perth09_bcHA_RepA_01,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_1.fastq.gz,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
-BC20_Perth09_bcHA_RepB_02,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_2.fastq.gz,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
+sample,fastq_file,bc_len,upstream_seq,downstream_seq
+BC20_Perth09_bcHA_RepA_01,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_1.fastq.gz,16,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
+BC20_Perth09_bcHA_RepB_02,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_2.fastq.gz,16,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
