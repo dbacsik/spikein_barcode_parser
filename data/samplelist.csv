@@ -1,2 +1,4 @@
-# Each sample must have a unique name and a single fastq.gz file
-sample,fastq_file
+# Each sample must have a unique name and a single fastq.gz file.
+# One of `upstream_seq` or `downstream_seq` must be specified; the
+# second is optional.
+sample,fastq_file,upstream_seq,downstream_seq
