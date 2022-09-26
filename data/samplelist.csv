@@ -2,5 +2,5 @@
 # One of `upstream_seq` or `downstream_seq` must be specified; the
 # second is optional.
 sample,fastq_file,bc_len,upstream_seq,downstream_seq
-BC20_Perth09_bcHA_RepA_01,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_1.fastq.gz,16,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
-BC20_Perth09_bcHA_RepB_02,/Users/dbacsik/Downloads/SWGG9B_info/SWGG9B_raw/SWGG9B_2.fastq.gz,16,TGCAACATCTGTATATAATGAG,tggatttcctttgccatatc
+BC20_Perth09_bcNP_RepA_03,/Users/dbacsik/Downloads/raw_seqs/SWGG9B_raw/SWGG9B_3.fastq.gz,16,AGGAATACGATAACTAATAGG,
+BC20_Perth09_bcNP_RepB_04,/Users/dbacsik/Downloads/raw_seqs/SWGG9B_raw/SWGG9B_4.fastq.gz,16,AGGAATACGATAACTAATAGG,
